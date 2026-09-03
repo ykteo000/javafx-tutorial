@@ -3,6 +3,8 @@ public class Duke {
         System.out.println("Hello!");
     }
 
+    private String commandType;
+
     /**
      * Generates a response for the user's chat message.
      */
